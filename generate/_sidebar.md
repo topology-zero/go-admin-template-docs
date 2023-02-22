@@ -1,0 +1,2 @@
+- [generate-a](generate/foo.md)
+- [generate-b](generate/bar.md)
